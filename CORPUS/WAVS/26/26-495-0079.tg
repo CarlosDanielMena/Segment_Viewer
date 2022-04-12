@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.605 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.605 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.605 
+            text = "I OBEYED THIS LAY CLOSE TO ME AND MY MIND SEEMED MORE AND MORE ENCOURAGED TO STAY THAN EVER AND SUPPORTED WITH A SECRET SATISFACTION THAT I SHOULD BE KEPT ADD TO THIS THAT" 

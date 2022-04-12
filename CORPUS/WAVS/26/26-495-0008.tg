@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 16.035 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 16.035 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 16.035 
+            text = "ENDEAVOURED TO CONCEAL IT AS MUCH AS POSSIBLE BUT AS IT HAD GOTTEN SOME VENT IN THE DISCOURSE OF THE NEIGHBOURHOOD THE SECRETARIES OF STATE GOT KNOWLEDGE OF IT AND CONCERNING THEMSELVES TO INQUIRE ABOUT IT IN ORDER TO BE CERTAIN OF THE TRUTH" 

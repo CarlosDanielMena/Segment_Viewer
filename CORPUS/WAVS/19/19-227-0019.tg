@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.8 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.8 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.8 
+            text = "BUT HER GLOWING CHEEK AND BRIGHTENED EYE MADE HER MOTHER TRUST THAT THIS GOOD NATURED VISIT WOULD AT LEAST SET HER HEART AT EASE FOR A TIME AND GLADLY THEREFORE DID SHE LAY ASIDE THE FIRST VOLUME OF THE MIRROR FOR A FUTURE HOUR" 

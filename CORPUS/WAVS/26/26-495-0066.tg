@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.68 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.68 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.68 
+            text = "I TOLD HIM THAT I INCLINED TO STAY AND TAKE MY LOT IN THAT STATION IN WHICH GOD HAD PLACED ME AND THAT IT SEEMED TO BE MADE MORE ESPECIALLY MY DUTY ON THE ACCOUNT OF WHAT I HAVE SAID" 

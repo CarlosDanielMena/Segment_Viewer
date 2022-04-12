@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.29 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.29 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.29 
+            text = "HENRY WAS CONVINCED OF HIS FATHER'S BELIEVING IT TO BE AN ADVANTAGEOUS CONNECTION IT WAS NOT TILL THE LATE EXPLANATION AT NORTHANGER THAT THEY HAD THE SMALLEST IDEA OF THE FALSE CALCULATIONS WHICH HAD HURRIED HIM ON" 

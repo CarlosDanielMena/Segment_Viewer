@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.565 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.565 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.565 
+            text = "AND ON THE AFTERNOON OF THE SECOND OF MAY HE STOOD OUT TO SEA BEFORE A FAVOURABLE BREEZE THE VOYAGE WAS PROSPEROUS ON THE SIXTH THE ORKNEYS WERE IN SIGHT ARGYLE VERY UNWISELY ANCHORED OFF KIRKWALL" 

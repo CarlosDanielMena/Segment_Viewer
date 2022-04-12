@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.85 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.85 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.85 
+            text = "WHO OWNED THE CHIEF OF THE PROPERTY ABOUT FULLERTON THE VILLAGE IN WILTSHIRE WHERE THE MORLANDS LIVED WAS ORDERED TO BATH FOR THE BENEFIT OF A GOUTY CONSTITUTION AND HIS LADY A GOOD HUMOURED WOMAN FOND OF MISS MORLAND AND PROBABLY AWARE THAT IF" 

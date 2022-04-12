@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.74 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.74 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.74 
+            text = "IN THIS PAPER WERE SET FORTH WITH A STRENGTH OF LANGUAGE SOMETIMES APPROACHING TO SCURRILITY MANY REAL AND SOME IMAGINARY GRIEVANCES IT WAS HINTED THAT THE LATE KING HAD DIED BY POISON" 

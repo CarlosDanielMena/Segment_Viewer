@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.6 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.6 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.6 
+            text = "BUT UNFORTUNATELY THE PLACE WHERE THE BRITISH EXILES HAD CONGREGATED AND WHERE THEIR SHIPS HAD BEEN FITTED OUT WAS THE RICH AND POPULOUS AMSTERDAM AND THE MAGISTRATES OF AMSTERDAM WERE THE HEADS OF THE FACTION HOSTILE TO THE FEDERAL GOVERNMENT" 

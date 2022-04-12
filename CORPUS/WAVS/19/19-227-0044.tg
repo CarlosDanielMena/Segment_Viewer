@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.71 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 12.71 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12.71 
+            text = "AND HIS OWN SPECULATIONS HE HAD YET SOMETHING MORE IN RESERVE AND THE TEN OR FIFTEEN THOUSAND POUNDS WHICH HER FATHER COULD GIVE HER WOULD BE A PRETTY ADDITION TO MISTER ALLEN'S ESTATE" 

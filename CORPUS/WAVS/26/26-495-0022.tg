@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.88 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.88 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.88 
+            text = "IN ONE WEEK SINCE THE PRECEDING VISITATION OF SIXTEEN FIFTY SIX HOWEVER ALL THIS WENT OFF AGAIN AND THE WEATHER PROVING COLD AND THE FROST WHICH BEGAN IN DECEMBER" 

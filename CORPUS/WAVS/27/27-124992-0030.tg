@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.005 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 10.005 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10.005 
+            text = "AND TO ALL BY WHOM THERE MIGHT BE A PASSAGE OF WAY THAT THEY SHOULD TAKE POSSESSION OF THE ASCENTS OF THE MOUNTAINS BY WHICH THERE MIGHT BE ANY WAY TO JERUSALEM" 

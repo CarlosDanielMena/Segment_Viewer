@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.255 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.255 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.255 
+            text = "OUR NEIGHBOURHOOD CONTINUED VERY EASY BUT AT THE OTHER END OF THE TOWN THEIR CONSTERNATION WAS VERY GREAT AND THE RICHER SORT OF PEOPLE ESPECIALLY THE NOBILITY AND GENTRY FROM THE WEST PART OF THE CITY" 

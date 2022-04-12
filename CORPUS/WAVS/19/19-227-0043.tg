@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.035 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.035 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.035 
+            text = "BESTOWING A RICH AUNT AND SINKING HALF THE CHILDREN HE WAS ABLE TO REPRESENT THE WHOLE FAMILY TO THE GENERAL IN A MOST RESPECTABLE LIGHT FOR CATHERINE HOWEVER THE PECULIAR OBJECT OF THE GENERAL'S CURIOSITY" 

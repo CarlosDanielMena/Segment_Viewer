@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 16.455 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 16.455 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 16.455 
+            text = "WHAT WAS MY DUTY TO DO AND I STATED THE ARGUMENTS WITH WHICH MY BROTHER HAD PRESSED ME TO GO INTO THE COUNTRY AND I SET AGAINST THEM THE STRONG IMPRESSIONS WHICH I HAD ON MY MIND FOR STAYING THE VISIBLE CALL I SEEMED TO HAVE" 

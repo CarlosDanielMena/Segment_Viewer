@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.425 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 11.425 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 11.425 
+            text = "AND ALLOWED TWO OF HIS FOLLOWERS TO GO ON SHORE THERE THE BISHOP ORDERED THEM TO BE ARRESTED THE REFUGEES PROCEEDED TO HOLD A LONG AND ANIMATED DEBATE ON THIS MISADVENTURE" 

@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.465 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.465 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.465 
+            text = "IN THE MONTH OF JUNE AND WENT TO OXFORD WHERE IT PLEASED GOD TO PRESERVE THEM AND THE DISTEMPER DID NOT AS I HEARD OF SO MUCH AS TOUCH THEM FOR WHICH I CANNOT SAY THAT" 

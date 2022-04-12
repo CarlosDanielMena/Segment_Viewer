@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.9750625 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.9750625 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.9750625 
+            text = "WHEN GREY REPEATED WITH APPROBATION WHAT WILDMAN HAD SAID ABOUT RICHMOND AND RICHARD THE WELL READ AND THOUGHTFUL SCOT JUSTLY REMARKED THAT THERE WAS A GREAT DIFFERENCE BETWEEN THE FIFTEENTH CENTURY AND THE SEVENTEENTH" 

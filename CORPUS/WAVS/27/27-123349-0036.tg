@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.63 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.63 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.63 
+            text = "AS THE FEDERAL AUTHORITIES HAD NOT THE MEANS OF EXACTING PROMPT OBEDIENCE FROM THE PROVINCIAL AUTHORITIES SO THE PROVINCIAL AUTHORITIES HAD NOT THE MEANS OF EXACTING PROMPT OBEDIENCE FROM THE MUNICIPAL AUTHORITIES" 

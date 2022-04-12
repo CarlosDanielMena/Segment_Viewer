@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.8 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 12.8 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12.8 
+            text = "THIS POSSESSED THE HEADS OF THE PEOPLE VERY MUCH AND FEW CARED TO GO THROUGH DRURY LANE OR THE OTHER STREETS SUSPECTED UNLESS THEY HAD EXTRAORDINARY BUSINESS THAT OBLIGED THEM TO IT" 

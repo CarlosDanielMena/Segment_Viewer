@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.205 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 5.205 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.205 
+            text = "A CHIEF OBJECT OF THE EXPEDITION WAS DECLARED TO BE THE ENTIRE SUPPRESSION" 

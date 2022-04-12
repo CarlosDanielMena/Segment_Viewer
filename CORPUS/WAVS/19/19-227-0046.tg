@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.835 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.835 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.835 
+            text = "UPON SUCH INTELLIGENCE THE GENERAL HAD PROCEEDED FOR NEVER HAD IT OCCURRED TO HIM TO DOUBT ITS AUTHORITY THORPE'S INTEREST IN THE FAMILY BY HIS SISTER'S APPROACHING CONNECTION WITH ONE OF ITS MEMBERS" 

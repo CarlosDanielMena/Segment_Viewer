@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.515 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.515 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.515 
+            text = "WHEN THE EARL REACHED HIS OWN PROVINCE HE FOUND THAT PREPARATIONS HAD BEEN MADE TO REPEL HIM AT DUNSTAFFNAGE HE SENT HIS SECOND SON CHARLES ON SHORE TO CALL THE CAMPBELLS TO ARMS BUT CHARLES RETURNED WITH GLOOMY TIDINGS" 

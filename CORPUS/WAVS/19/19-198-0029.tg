@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.675 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.675 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.675 
+            text = "SHE BROUGHT HERSELF TO READ THEM AND THOUGH THERE SEEMED NO CHANCE OF HER THROWING A WHOLE PARTY INTO RAPTURES BY A PRELUDE ON THE PIANOFORTE OF HER OWN COMPOSITION SHE COULD LISTEN TO OTHER PEOPLE'S PERFORMANCE WITH VERY LITTLE FATIGUE" 

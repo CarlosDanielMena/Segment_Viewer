@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.535 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.535 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.535 
+            text = "WHICH WAS CONSIDERABLE AND IN WHICH WAS EMBARKED ALL MY EFFECTS IN THE WORLD AND THE OTHER WAS THE PRESERVATION OF MY LIFE IN SO DISMAL A CALAMITY AS I SAW APPARENTLY WAS COMING UPON THE WHOLE CITY AND WHICH" 

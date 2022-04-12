@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.915 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.915 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.915 
+            text = "SO THESE DISAPPOINTMENTS MUST HAVE SOMETHING IN THEM EXTRAORDINARY AND I OUGHT TO CONSIDER WHETHER IT DID NOT EVIDENTLY POINT OUT OR INTIMATE TO ME THAT IT WAS THE WILL OF HEAVEN I SHOULD NOT GO" 

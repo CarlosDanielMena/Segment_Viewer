@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.075 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.075 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.075 
+            text = "HASTILY LEFT THE ROOM TO FETCH THE BOOK IN QUESTION ANXIOUS TO LOSE NO TIME IN ATTACKING SO DREADFUL A MALADY IT WAS SOME TIME BEFORE SHE COULD FIND WHAT SHE LOOKED FOR AND OTHER FAMILY MATTERS OCCURRING TO DETAIN HER" 

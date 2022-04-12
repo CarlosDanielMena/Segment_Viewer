@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.12 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.12 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.12 
+            text = "OF ALL DISTEMPERS WHEREOF IT MIGHT BE SUPPOSED ABOVE SIX HUNDRED DIED OF THE PLAGUE YET THERE WAS BUT TWENTY EIGHT IN THE WHOLE CITY WITHIN THE WALLS AND BUT NINETEEN IN SOUTHWARK" 

@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.49 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.49 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.49 
+            text = "BUT IT WAS APPREHENDED THAT ARGYLE WOULD SHORTLY APPEAR IN ARMS AMONG HIS CLANSMEN A PROCLAMATION WAS ACCORDINGLY ISSUED DIRECTING THAT SCOTLAND SHOULD BE PUT INTO A STATE OF DEFENCE THE MILITIA WAS ORDERED TO BE IN READINESS" 

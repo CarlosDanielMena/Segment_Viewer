@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.65 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.65 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.65 
+            text = "SHE BEGAN TO CURL HER HAIR AND LONG FOR BALLS HER COMPLEXION IMPROVED HER FEATURES WERE SOFTENED BY PLUMPNESS AND COLOUR HER EYES GAINED MORE ANIMATION AND HER FIGURE MORE CONSEQUENCE" 

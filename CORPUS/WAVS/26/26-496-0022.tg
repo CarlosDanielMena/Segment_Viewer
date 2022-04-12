@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.005 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.005 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.005 
+            text = "WAS SUCH THAT THE TOWN WAS COMPUTED TO HAVE IN IT ABOVE A HUNDRED THOUSAND PEOPLE MORE THAN EVER IT HELD BEFORE NAY SOME TOOK UPON THEM TO SAY IT HAD TWICE AS MANY BECAUSE" 

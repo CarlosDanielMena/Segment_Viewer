@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.825 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.825 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.825 
+            text = "BUT WHEN A YOUNG LADY IS TO BE A HEROINE THE PERVERSENESS OF FORTY SURROUNDING FAMILIES CANNOT PREVENT HER SOMETHING MUST AND WILL HAPPEN TO THROW A HERO IN HER WAY MISTER ALLEN" 

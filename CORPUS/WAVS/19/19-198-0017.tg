@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.64 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.64 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.64 
+            text = "HATED CONFINEMENT AND CLEANLINESS AND LOVED NOTHING SO WELL IN THE WORLD AS ROLLING DOWN THE GREEN SLOPE AT THE BACK OF THE HOUSE SUCH WAS CATHERINE MORLAND AT TEN AT FIFTEEN APPEARANCES WERE MENDING" 

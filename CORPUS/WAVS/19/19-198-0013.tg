@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.0 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.0 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.0 
+            text = "HER MOTHER WAS THREE MONTHS IN TEACHING HER ONLY TO REPEAT THE BEGGAR'S PETITION AND AFTER ALL HER NEXT SISTER SALLY COULD SAY IT BETTER THAN SHE DID NOT THAT CATHERINE WAS ALWAYS STUPID BY NO MEANS" 

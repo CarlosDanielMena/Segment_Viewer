@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 16.13 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 16.13 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 16.13 
+            text = "ARGYLE HAS THE GREATEST MEANS OF ANNOYING ME AND OF ALL PLACES HOLLAND IS THAT WHENCE A BLOW MAY BE BEST AIMED AGAINST ME THE DUTCH ENVOYS ASSURED HIS MAJESTY THAT WHAT HE HAD SAID SHOULD INSTANTLY BE COMMUNICATED TO THE GOVERNMENT" 

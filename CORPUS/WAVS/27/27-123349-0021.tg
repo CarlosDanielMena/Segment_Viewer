@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.495 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 9.495 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 9.495 
+            text = "LOCKE WAS TRAVELLING ON THE CONTINENT FOR HIS HEALTH WHEN HE LEARNED THAT HE HAD BEEN DEPRIVED OF HIS HOME AND OF HIS BREAD WITHOUT A TRIAL OR EVEN A NOTICE" 

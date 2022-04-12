@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.935 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 10.935 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10.935 
+            text = "FOR THE PURPOSE OF MEETING IMMEDIATE EXIGENCIES HAD NEVER BEEN DELIBERATELY REVISED AND PERFECTED IN A TIME OF TRANQUILLITY EVERY ONE OF THE SEVEN COMMONWEALTHS" 

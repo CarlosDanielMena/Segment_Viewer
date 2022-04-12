@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.26 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.26 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.26 
+            text = "WILDMAN WHO LOVED TO TALK TREASON IN PARABLES SENT TO SAY THAT THE EARL OF RICHMOND JUST TWO HUNDRED YEARS BEFORE HAD LANDED IN ENGLAND WITH A HANDFUL OF MEN AND HAD A FEW DAYS LATER BEEN CROWNED ON THE FIELD OF BOSWORTH" 

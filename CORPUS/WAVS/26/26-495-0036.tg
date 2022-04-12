@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.165 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.165 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.165 
+            text = "IN AN UNUSUAL MANNER AND THIS WAS MORE PARTICULARLY SEEN IN WHITECHAPPEL THAT IS TO SAY THE BROAD STREET WHERE I LIVED INDEED NOTHING WAS TO BE SEEN BUT WAGGONS AND CARTS WITH GOODS" 

@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.44 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 3.44 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.44 
+            text = "AND AT THE HEAD OF A GREAT BODY OF HIS FOLLOWERS" 

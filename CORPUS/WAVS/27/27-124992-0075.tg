@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.965 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 12.965 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12.965 
+            text = "THE CHURCH THAT IS THE SYNAGOGUE OR PLACE WHERE THEY MET FOR PRAYER JUDITH CHAPTER SEVEN HOLOFERNES BESIEGETH BETHULIA" 

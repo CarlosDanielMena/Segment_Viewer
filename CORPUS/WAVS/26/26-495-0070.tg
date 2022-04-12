@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.035 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.035 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.035 
+            text = "ONLY BECAUSE I COULD NOT HIRE A HORSE TO GO OR MY FELLOW WAS RUN AWAY THAT WAS TO ATTEND ME WAS RIDICULOUS SINCE AT THE TIME I HAD MY HEALTH AND LIMBS AND OTHER SERVANTS AND MIGHT" 

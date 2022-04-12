@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.965 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.965 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.965 
+            text = "AND THAT WE HOPED WAS NOT TRUE TILL THE LATTER END OF NOVEMBER OR THE BEGINNING OF DECEMBER SIXTEEN SIXTY FOUR WHEN TWO MEN SAID TO BE FRENCHMEN DIED OF THE PLAGUE IN LONG ACRE" 

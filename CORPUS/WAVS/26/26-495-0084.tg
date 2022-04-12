@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.22 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.22 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.22 
+            text = "HE WAS AS ABLE TO KEEP ME IN A TIME OF THE INFECTION AS IN A TIME OF HEALTH AND IF HE DID NOT THINK FIT TO DELIVER ME STILL I WAS IN HIS HANDS" 

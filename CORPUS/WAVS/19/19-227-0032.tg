@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.97 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.97 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.97 
+            text = "ON HIS RETURN FROM WOODSTON TWO DAYS BEFORE HE HAD BEEN MET NEAR THE ABBEY BY HIS IMPATIENT FATHER HASTILY INFORMED IN ANGRY TERMS OF MISS MORLAND'S DEPARTURE AND ORDERED TO THINK OF HER NO MORE" 

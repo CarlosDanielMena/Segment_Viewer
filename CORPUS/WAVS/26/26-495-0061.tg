@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.535 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.535 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.535 
+            text = "AND WOULD BE DIRECTED WHAT TO DO IN IT NAMELY THAT HE SHOULD KEEP HIS EYE UPON THE PARTICULAR PROVIDENCES WHICH OCCUR AT THAT TIME AND LOOK UPON THEM COMPLEXLY AS THEY REGARD ONE ANOTHER" 

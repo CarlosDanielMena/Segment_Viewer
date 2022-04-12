@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.7849375 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 11.7849375 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 11.7849375 
+            text = "AND HAVING THE KEY IN MY POCKET I USED TO GO INTO THE HOUSE AND OVER MOST OF THE ROOMS TO SEE THAT ALL WAS WELL FOR THOUGH IT BE SOMETHING WONDERFUL TO TELL" 

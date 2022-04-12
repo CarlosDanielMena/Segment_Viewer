@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.63 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.63 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.63 
+            text = "FOR FROM THE BEGINNING TO THE END OF THEIR EXPEDITION HOWEVER LANGUID AND IRRESOLUTE THEIR CONDUCT MIGHT BE THEY NEVER IN DEBATE WANTED SPIRIT OR PERSEVERANCE SOME WERE FOR AN ATTACK ON KIRKWALL" 

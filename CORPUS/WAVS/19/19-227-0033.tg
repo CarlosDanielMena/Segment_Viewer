@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.665 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 11.665 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 11.665 
+            text = "SUCH WAS THE PERMISSION UPON WHICH HE HAD NOW OFFERED HER HIS HAND THE AFFRIGHTED CATHERINE AMIDST ALL THE TERRORS OF EXPECTATION AS SHE LISTENED TO THIS ACCOUNT" 

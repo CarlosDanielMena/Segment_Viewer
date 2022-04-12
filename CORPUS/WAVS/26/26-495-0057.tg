@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.79 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.79 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.79 
+            text = "HAD MOST OF THE PEOPLE THAT TRAVELLED DONE SO THE PLAGUE HAD NOT BEEN CARRIED INTO SO MANY COUNTRY TOWNS AND HOUSES AS IT WAS TO THE GREAT DAMAGE AND INDEED TO THE RUIN OF ABUNDANCE OF PEOPLE" 

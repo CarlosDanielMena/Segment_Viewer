@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.7 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 12.7 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12.7 
+            text = "OF MISS MORLAND'S BEING UNDER THEIR CARE AND AS SOON AS HIS ACQUAINTANCE ALLOWED HIM TO JUDGE OF THEIR TREATING HER WITH PARENTAL KINDNESS HIS RESOLUTION WAS SOON FORMED" 

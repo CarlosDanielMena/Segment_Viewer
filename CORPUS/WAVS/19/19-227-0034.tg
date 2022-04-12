@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.405 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 11.405 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 11.405 
+            text = "COULD NOT BUT REJOICE IN THE KIND CAUTION WITH WHICH HENRY HAD SAVED HER FROM THE NECESSITY OF A CONSCIENTIOUS REJECTION BY ENGAGING HER FAITH BEFORE HE MENTIONED THE SUBJECT" 

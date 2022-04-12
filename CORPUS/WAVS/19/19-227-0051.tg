@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.35 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.35 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.35 
+            text = "HAD SEEN WITH ASTONISHMENT THE SUDDENNESS CONTINUANCE AND EXTENT OF HIS ATTENTION AND THOUGH LATTERLY FROM SOME HINTS WHICH HAD ACCOMPANIED AN ALMOST POSITIVE COMMAND TO HIS SON OF DOING EVERYTHING IN HIS POWER TO ATTACH HER" 

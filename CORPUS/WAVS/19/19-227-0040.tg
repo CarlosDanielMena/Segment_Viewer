@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.81 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.81 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.81 
+            text = "HIS VANITY INDUCED HIM TO REPRESENT THE FAMILY AS YET MORE WEALTHY THAN HIS VANITY AND AVARICE HAD MADE HIM BELIEVE THEM WITH WHOMSOEVER HE WAS OR WAS LIKELY TO BE CONNECTED" 

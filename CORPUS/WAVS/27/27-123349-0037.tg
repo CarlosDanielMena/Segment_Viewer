@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.665 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.665 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.665 
+            text = "HOLLAND ALONE CONTAINED EIGHTEEN CITIES EACH OF WHICH WAS FOR MANY PURPOSES AN INDEPENDENT STATE JEALOUS OF ALL INTERFERENCE FROM WITHOUT IF THE RULERS OF SUCH A CITY RECEIVED FROM THE HAGUE AN ORDER" 

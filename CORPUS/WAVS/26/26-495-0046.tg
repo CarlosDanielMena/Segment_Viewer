@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.59 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.59 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.59 
+            text = "SO FULLY BECAUSE I KNOW NOT BUT IT MAY BE OF MOMENT TO THOSE WHO COME AFTER ME IF THEY COME TO BE BROUGHT TO THE SAME DISTRESS AND TO THE SAME MANNER OF MAKING THEIR CHOICE AND THEREFORE" 

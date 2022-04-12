@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.865 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.865 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.865 
+            text = "WITHOUT ANY OVERSEER OR PERSON FIT TO BE TRUSTED WITH THEM HAD BEEN TO HAZARD THE LOSS NOT ONLY OF MY TRADE BUT OF MY GOODS AND INDEED OF ALL I HAD IN THE WORLD I HAD AN ELDER BROTHER" 

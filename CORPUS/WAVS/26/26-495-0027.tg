@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.19 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 11.19 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 11.19 
+            text = "THERE DIED BUT THREE OF WHICH NOT ONE WITHIN THE WHOLE CITY OR LIBERTIES AND SAINT ANDREW'S BURIED BUT FIFTEEN WHICH WAS VERY LOW" 

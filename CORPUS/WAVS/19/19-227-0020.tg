@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.535 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 11.535 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 11.535 
+            text = "DESIROUS OF MISTER MORLAND'S ASSISTANCE AS WELL IN GIVING ENCOURAGEMENT AS IN FINDING CONVERSATION FOR HER GUEST WHOSE EMBARRASSMENT ON HIS FATHER'S ACCOUNT SHE EARNESTLY PITIED" 

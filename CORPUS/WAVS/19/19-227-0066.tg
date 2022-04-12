@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.21 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.21 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.21 
+            text = "THE CONVERSATION BETWEEN THEM AT NORTHANGER HAD BEEN OF THE MOST UNFRIENDLY KIND HENRY'S INDIGNATION ON HEARING HOW CATHERINE HAD BEEN TREATED ON COMPREHENDING HIS FATHER'S VIEWS AND BEING ORDERED TO ACQUIESCE IN THEM" 

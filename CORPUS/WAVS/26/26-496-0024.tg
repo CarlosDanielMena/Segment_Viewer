@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.415 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.415 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.415 
+            text = "TO LONDON I OFTEN THOUGHT THAT AS JERUSALEM WAS BESIEGED BY THE ROMANS WHEN THE JEWS WERE ASSEMBLED TOGETHER TO CELEBRATE THE PASSOVER BY WHICH MEANS AN INCREDIBLE NUMBER OF PEOPLE WERE SURPRISED THERE" 

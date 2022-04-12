@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.685 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.685 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.685 
+            text = "AND IT SEEMED AS IF SHE COULD EVEN WALK ABOUT THE HOUSE RATHER THAN REMAIN FIXED FOR ANY TIME IN THE PARLOUR HER LOSS OF SPIRITS WAS A YET GREATER ALTERATION IN HER RAMBLING AND HER IDLENESS" 

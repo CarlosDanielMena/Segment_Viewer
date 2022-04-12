@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.115 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.115 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.115 
+            text = "WHO ALSO COMMANDED THEM TO DEPART FROM THENCE AND TO DWELL IN CHARAN AND WHEN THERE WAS A FAMINE OVER ALL THE LAND THEY WENT DOWN INTO EGYPT AND THERE FOR FOUR HUNDRED YEARS WERE SO MULTIPLIED" 

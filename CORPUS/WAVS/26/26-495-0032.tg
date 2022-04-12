@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.585 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.585 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.585 
+            text = "UPON THE WHOLE THAT THERE WERE FIFTY DIED THAT WEEK OF THE PLAGUE THE NEXT BILL WAS FROM THE TWENTY THIRD OF MAY TO THE THIRTIETH WHEN THE NUMBER OF THE PLAGUE WAS SEVENTEEN BUT" 

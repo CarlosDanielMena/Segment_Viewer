@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 16.71 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 16.71 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 16.71 
+            text = "STILL CONTINUING VERY SEVERE EVEN TILL NEAR THE END OF FEBRUARY ATTENDED WITH SHARP THOUGH MODERATE WINDS THE BILLS DECREASED AGAIN AND THE CITY GREW HEALTHY AND EVERYBODY BEGAN TO LOOK UPON THE DANGER AS GOOD AS OVER" 

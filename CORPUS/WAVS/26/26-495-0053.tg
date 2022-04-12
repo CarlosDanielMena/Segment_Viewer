@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.91 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 10.91 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10.91 
+            text = "AT THE SAME TIME IN LONDON AND NOT MANY YEARS BEFORE COME OVER FROM PORTUGAL AND ADVISING WITH HIM HIS ANSWER WAS IN THREE WORDS" 

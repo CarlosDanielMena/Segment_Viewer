@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.685 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 12.685 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12.685 
+            text = "SOME OF THE SCOTTISH EMIGRANTS HEATED WITH REPUBLICAN ENTHUSIASM AND UTTERLY DESTITUTE OF THE SKILL NECESSARY TO THE CONDUCT OF GREAT AFFAIRS EMPLOYED ALL THEIR INDUSTRY AND INGENUITY" 

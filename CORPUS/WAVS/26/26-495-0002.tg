@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.555 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.555 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.555 
+            text = "IT WAS BROUGHT SOME SAID FROM ITALY OTHERS FROM THE LEVANT AMONG SOME GOODS WHICH WERE BROUGHT HOME BY THEIR TURKEY FLEET OTHERS SAID IT WAS BROUGHT FROM CANDIA OTHERS FROM CYPRUS" 

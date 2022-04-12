@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.16 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 12.16 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12.16 
+            text = "FOR MISSUS MORLAND THINKING IT PROBABLE AS A SECONDARY CONSIDERATION IN HIS WISH OF WAITING ON THEIR WORTHY NEIGHBOURS THAT HE MIGHT HAVE SOME EXPLANATION TO GIVE OF HIS FATHER'S BEHAVIOUR" 

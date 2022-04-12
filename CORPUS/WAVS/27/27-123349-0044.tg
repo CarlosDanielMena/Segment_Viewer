@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 16.04 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 16.04 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 16.04 
+            text = "AND THAT IF THERE HAD BEEN ANY REAL WISH AT THE STADTHOUSE OF AMSTERDAM TO PREVENT ARGYLE FROM SAILING NO DIFFICULTIES WOULD HAVE BEEN MADE SKELTON NOW ADDRESSED HIMSELF TO THE STATES GENERAL THEY SHOWED EVERY DISPOSITION TO COMPLY WITH HIS DEMAND" 

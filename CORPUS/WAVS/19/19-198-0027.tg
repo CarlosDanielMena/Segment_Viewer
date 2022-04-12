@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.95 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.95 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.95 
+            text = "THAT THE POOR BEETLE WHICH WE TREAD UPON IN CORPORAL SUFFERANCE FEELS A PANG AS GREAT AS WHEN A GIANT DIES AND THAT A YOUNG WOMAN IN LOVE ALWAYS LOOKS" 

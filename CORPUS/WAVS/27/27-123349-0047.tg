@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.72 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.72 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.72 
+            text = "WOULD IN A MOMENT HAVE PUT AN END TO HIS EXPEDITION ROUND HIS LITTLE FLEET A BOAT WAS ROWING IN WHICH WERE SOME PERSONS WITH TELESCOPES WHOM HE SUSPECTED TO BE SPIES BUT NO EFFECTUAL STEP WAS TAKEN FOR THE PURPOSE OF DETAINING HIM" 

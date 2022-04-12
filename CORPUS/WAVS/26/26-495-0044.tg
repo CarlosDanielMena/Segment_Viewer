@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.55 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.55 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.55 
+            text = "TO PLACE TURNPIKES AND BARRIERS ON THE ROAD TO PREVENT PEOPLE TRAVELLING AND THAT THE TOWNS ON THE ROAD WOULD NOT SUFFER PEOPLE FROM LONDON TO PASS FOR FEAR OF BRINGING THE INFECTION ALONG WITH THEM" 

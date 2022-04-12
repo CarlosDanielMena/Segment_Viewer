@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.43 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.43 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.43 
+            text = "THIS HURRY I SAY CONTINUED SOME WEEKS THAT IS TO SAY ALL THE MONTH OF MAY AND JUNE AND THE MORE BECAUSE IT WAS RUMOURED THAT AN ORDER OF THE GOVERNMENT WAS TO BE ISSUED OUT" 

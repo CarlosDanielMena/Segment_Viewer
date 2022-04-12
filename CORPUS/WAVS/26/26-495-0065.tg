@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.715 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.715 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.715 
+            text = "FLYING FROM GOD AND THAT HE COULD CAUSE HIS JUSTICE TO OVERTAKE ME WHEN AND WHERE HE THOUGHT FIT THESE THOUGHTS QUITE TURNED MY RESOLUTIONS AGAIN AND WHEN I CAME TO DISCOURSE WITH MY BROTHER AGAIN" 

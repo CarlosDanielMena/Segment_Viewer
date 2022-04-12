@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.025 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.025 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.025 
+            text = "CHAPTER THIRTY CATHERINE'S DISPOSITION WAS NOT NATURALLY SEDENTARY NOR HAD HER HABITS BEEN EVER VERY INDUSTRIOUS BUT WHATEVER MIGHT HITHERTO HAVE BEEN HER DEFECTS OF THAT SORT" 

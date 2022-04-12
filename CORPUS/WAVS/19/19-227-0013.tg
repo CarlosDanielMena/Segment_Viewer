@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.23 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 11.23 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 11.23 
+            text = "SHE KNEW NOT THAT A VISITOR HAD ARRIVED WITHIN THE LAST FEW MINUTES TILL ON ENTERING THE ROOM THE FIRST OBJECT SHE BEHELD WAS A YOUNG MAN WHOM SHE HAD NEVER SEEN BEFORE" 

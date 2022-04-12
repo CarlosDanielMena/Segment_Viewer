@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.595 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.595 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.595 
+            text = "IN HIM WILL I TRUST SURELY HE SHALL DELIVER THEE FROM THE SNARE OF THE FOWLER AND FROM THE NOISOME PESTILENCE HE SHALL COVER THEE WITH HIS FEATHERS AND UNDER HIS WINGS SHALT THOU TRUST" 

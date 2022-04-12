@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.875 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 12.875 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12.875 
+            text = "FOR THE CITY THAT IS TO SAY WITHIN THE WALLS WAS INDIFFERENTLY HEALTHY STILL NOR WAS IT GOT THEN VERY MUCH OVER THE WATER INTO SOUTHWARK" 

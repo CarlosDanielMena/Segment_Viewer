@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.615 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.615 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.615 
+            text = "WHICH IT MUST BE MORE PLEASANT FOR HIM TO COMMUNICATE ONLY TO CATHERINE WOULD NOT ON ANY ACCOUNT PREVENT HER ACCOMPANYING HIM THEY BEGAN THEIR WALK AND MISSUS MORLAND WAS NOT ENTIRELY MISTAKEN IN HIS OBJECT IN WISHING IT" 

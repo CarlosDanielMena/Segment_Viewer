@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.285 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.285 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.285 
+            text = "AND AFTERWARDS FETCHED A ROUND FARTHER INTO BUCKINGHAMSHIRE OR BEDFORDSHIRE TO A RETREAT HE HAD FOUND OUT THERE FOR HIS FAMILY IT WAS A VERY ILL TIME TO BE SICK IN" 

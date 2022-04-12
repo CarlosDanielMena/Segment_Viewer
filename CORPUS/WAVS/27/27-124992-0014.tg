@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.965 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 4.965 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.965 
+            text = "AND HE FORCED ALL THE STATELY CITIES THAT WERE THERE FROM THE TORRENT OF MAMBRE" 

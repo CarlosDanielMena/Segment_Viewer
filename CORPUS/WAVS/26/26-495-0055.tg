@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 16.38 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 16.38 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 16.38 
+            text = "FOR SAYS HE IS IT NOT AS REASONABLE THAT YOU SHOULD TRUST GOD WITH THE CHANCE OR RISK OF LOSING YOUR TRADE AS THAT YOU SHOULD STAY IN SO EMINENT A POINT OF DANGER AND TRUST HIM WITH YOUR LIFE I COULD NOT" 

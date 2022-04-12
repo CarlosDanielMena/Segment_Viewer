@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 16.195 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 16.195 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 16.195 
+            text = "AND SEVERAL COUNCILS WERE HELD ABOUT WAYS TO PREVENT ITS COMING OVER BUT ALL WAS KEPT VERY PRIVATE HENCE IT WAS THAT THIS RUMOUR DIED OFF AGAIN AND PEOPLE BEGAN TO FORGET IT AS A THING WE WERE VERY LITTLE CONCERNED IN" 

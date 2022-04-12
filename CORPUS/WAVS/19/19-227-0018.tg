@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.38 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 12.38 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12.38 
+            text = "THOUGH HIS HEART WAS GREATLY RELIEVED BY SUCH UNLOOKED FOR MILDNESS IT WAS NOT JUST AT THAT MOMENT IN HIS POWER TO SAY ANYTHING TO THE PURPOSE RETURNING IN SILENCE TO HIS SEAT THEREFORE" 

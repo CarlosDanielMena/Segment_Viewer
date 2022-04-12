@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.93 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.93 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.93 
+            text = "MY DEAR CATHERINE I AM AFRAID YOU ARE GROWING QUITE A FINE LADY I DO NOT KNOW WHEN POOR RICHARD'S CRAVATS WOULD BE DONE IF HE HAD NO FRIEND BUT YOU YOUR HEAD RUNS TOO MUCH UPON BATH" 

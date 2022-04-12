@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.915 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.915 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.915 
+            text = "SO AT EIGHT YEARS OLD SHE BEGAN SHE LEARNT A YEAR AND COULD NOT BEAR IT AND MISSUS MORLAND WHO DID NOT INSIST ON HER DAUGHTERS BEING ACCOMPLISHED IN SPITE OF INCAPACITY OR DISTASTE ALLOWED HER TO LEAVE OFF" 

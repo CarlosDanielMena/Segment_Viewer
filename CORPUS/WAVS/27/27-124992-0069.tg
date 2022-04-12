@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.845 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.845 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.845 
+            text = "O LORD GOD OF HEAVEN AND EARTH BEHOLD THEIR PRIDE AND LOOK ON OUR LOW CONDITION AND HAVE REGARD TO THE FACE OF THY SAINTS AND SHEW THAT THOU FORSAKEST NOT THEM THAT TRUST ON THEE" 

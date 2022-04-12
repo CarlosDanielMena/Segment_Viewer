@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.96 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.96 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.96 
+            text = "BEGAN TO APOLOGIZE FOR HIS APPEARANCE THERE ACKNOWLEDGING THAT AFTER WHAT HAD PASSED HE HAD LITTLE RIGHT TO EXPECT A WELCOME AT FULLERTON AND STATING HIS IMPATIENCE TO BE ASSURED OF MISS MORLAND'S HAVING REACHED HER HOME IN SAFETY" 

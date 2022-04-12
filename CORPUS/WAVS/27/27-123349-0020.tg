@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 10.61 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 10.61 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10.61 
+            text = "THE GOVERNMENT RESOLVED TO PUNISH HIM WITHOUT ONE ORDERS CAME FROM WHITEHALL THAT HE SHOULD BE EJECTED AND THOSE ORDERS THE DEAN AND CANONS MADE HASTE TO OBEY" 

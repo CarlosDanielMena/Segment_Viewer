@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.015 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 12.015 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12.015 
+            text = "THE GENERAL WAS FURIOUS IN HIS ANGER AND THEY PARTED IN DREADFUL DISAGREEMENT HENRY IN AN AGITATION OF MIND WHICH MANY SOLITARY HOURS WERE REQUIRED TO COMPOSE" 

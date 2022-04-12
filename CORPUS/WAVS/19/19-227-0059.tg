@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.865 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.865 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.865 
+            text = "AS HE HAD LATELY HAD PARTICULAR OPPORTUNITIES OF DISCOVERING AIMING AT A STYLE OF LIFE WHICH THEIR FORTUNE COULD NOT WARRANT SEEKING TO BETTER THEMSELVES BY WEALTHY CONNECTIONS A FORWARD BRAGGING SCHEMING RACE" 

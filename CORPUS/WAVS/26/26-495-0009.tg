@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.6 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.6 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.6 
+            text = "TWO PHYSICIANS AND A SURGEON WERE ORDERED TO GO TO THE HOUSE AND MAKE INSPECTION THIS THEY DID AND FINDING EVIDENT TOKENS OF THE SICKNESS UPON BOTH THE BODIES THAT WERE DEAD" 

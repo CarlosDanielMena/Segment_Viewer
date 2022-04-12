@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.615 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 11.615 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 11.615 
+            text = "HER GREATEST DEFICIENCY WAS IN THE PENCIL SHE HAD NO NOTION OF DRAWING NOT ENOUGH EVEN TO ATTEMPT A SKETCH OF HER LOVER'S PROFILE THAT SHE MIGHT BE DETECTED IN THE DESIGN" 

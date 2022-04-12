@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.645 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.645 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.645 
+            text = "SOME EXPLANATION ON HIS FATHER'S ACCOUNT HE HAD TO GIVE BUT HIS FIRST PURPOSE WAS TO EXPLAIN HIMSELF AND BEFORE THEY REACHED MISTER ALLEN'S GROUNDS HE HAD DONE IT SO WELL THAT CATHERINE DID NOT THINK IT COULD EVER BE REPEATED TOO OFTEN" 

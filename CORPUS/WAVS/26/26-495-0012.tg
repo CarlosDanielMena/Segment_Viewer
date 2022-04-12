@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.64 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 12.64 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12.64 
+            text = "IT BEGAN TO BE SUSPECTED THAT THE PLAGUE WAS AMONG THE PEOPLE AT THAT END OF THE TOWN AND THAT MANY HAD DIED OF IT THOUGH THEY HAD TAKEN CARE TO KEEP IT AS MUCH FROM THE KNOWLEDGE OF THE PUBLIC AS POSSIBLE" 

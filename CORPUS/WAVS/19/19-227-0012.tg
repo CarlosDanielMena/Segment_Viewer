@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.73 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 12.73 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12.73 
+            text = "A QUARTER OF AN HOUR HAD ELAPSED ERE SHE RETURNED DOWNSTAIRS WITH THE VOLUME FROM WHICH SO MUCH WAS HOPED HER AVOCATIONS ABOVE HAVING SHUT OUT ALL NOISE BUT WHAT SHE CREATED HERSELF" 

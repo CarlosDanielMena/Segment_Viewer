@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.145 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.145 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.145 
+            text = "AND TO THE HOUSE OF NASSAU THE NAVAL ADMINISTRATION OF THE UNITED PROVINCES WAS CONDUCTED BY FIVE DISTINCT BOARDS OF ADMIRALTY ONE OF THOSE BOARDS SATE AT AMSTERDAM WAS PARTLY NOMINATED BY THE AUTHORITIES OF THAT CITY" 

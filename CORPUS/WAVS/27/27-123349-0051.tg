@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.31 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.31 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.31 
+            text = "SOME WERE FOR PROCEEDING WITHOUT DELAY TO ARGYLESHIRE AT LAST THE EARL SEIZED SOME GENTLEMEN WHO LIVED NEAR THE COAST OF THE ISLAND AND PROPOSED TO THE BISHOP AN EXCHANGE OF PRISONERS THE BISHOP RETURNED NO ANSWER AND THE FLEET" 

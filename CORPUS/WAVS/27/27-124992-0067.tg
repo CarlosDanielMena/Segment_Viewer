@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.5 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.5 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.5 
+            text = "HAD COMMANDED HIM TO BE DELIVERED FOR THIS CAUSE TO THE ISRAELITES THAT WHEN HE SHOULD OVERCOME THE CHILDREN OF ISRAEL THEN HE MIGHT COMMAND ACHIOR ALSO HIMSELF TO BE PUT TO DEATH BY DIVERSE TORMENTS FOR HAVING SAID" 

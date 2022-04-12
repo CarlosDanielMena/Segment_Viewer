@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.465 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.465 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.465 
+            text = "AND IN THE SUBURBS IN SOUTHWARK AND IN THE EAST PART SUCH AS WAPPING RATCLIFF STEPNEY ROTHERHITHE AND THE LIKE THE PEOPLE GENERALLY STAYED EXCEPT HERE AND THERE A FEW WEALTHY FAMILIES WHO AS ABOVE" 

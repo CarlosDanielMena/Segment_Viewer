@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.285 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 11.285 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 11.285 
+            text = "AS THIS CONFLUX OF THE PEOPLE TO A YOUTHFUL AND GAY COURT MADE A GREAT TRADE IN THE CITY ESPECIALLY IN EVERYTHING THAT BELONGED TO FASHION AND FINERY" 

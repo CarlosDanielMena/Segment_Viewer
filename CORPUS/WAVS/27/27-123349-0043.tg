@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 16.225 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 16.225 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 16.225 
+            text = "WITH A REQUEST THAT THE SUSPECTED SHIPS MIGHT BE DETAINED THE MAGISTRATES OF AMSTERDAM ANSWERED THAT THE ENTRANCE OF THE ZUYDER ZEE WAS OUT OF THEIR JURISDICTION AND REFERRED HIM TO THE FEDERAL GOVERNMENT IT WAS NOTORIOUS THAT THIS WAS A MERE EXCUSE" 

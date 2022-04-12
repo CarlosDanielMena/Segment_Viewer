@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.63 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 8.63 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.63 
+            text = "ALL MOUNTAINS AND HILLS AND FIELDS AND HERDS OF OXEN AND FLOCKS OF SHEEP AND GOATS AND HORSES AND CAMELS" 

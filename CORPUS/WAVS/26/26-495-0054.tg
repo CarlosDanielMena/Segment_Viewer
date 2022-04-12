@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.07 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 14.07 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 14.07 
+            text = "THAT THE BEST PREPARATION FOR THE PLAGUE WAS TO RUN AWAY FROM IT AS TO MY ARGUMENT OF LOSING MY TRADE MY GOODS OR DEBTS HE QUITE CONFUTED ME HE TOLD ME THE SAME THING WHICH" 

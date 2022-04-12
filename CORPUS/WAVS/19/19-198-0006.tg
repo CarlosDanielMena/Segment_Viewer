@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.005 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.005 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.005 
+            text = "HER MOTHER WAS A WOMAN OF USEFUL PLAIN SENSE WITH A GOOD TEMPER AND WHAT IS MORE REMARKABLE WITH A GOOD CONSTITUTION SHE HAD THREE SONS BEFORE CATHERINE WAS BORN" 

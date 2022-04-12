@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.45 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 13.45 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.45 
+            text = "DEPARTED FROM THE COURSE WHICH THEY ORDINARILY OBSERVED IN THE TRANSACTION OF BUSINESS ON THE SAME DAY ON WHICH HE MADE HIS APPLICATION TO THEM AN ORDER DRAWN IN EXACT CONFORMITY WITH HIS REQUEST" 

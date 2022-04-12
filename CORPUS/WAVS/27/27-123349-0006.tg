@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.025 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 12.025 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12.025 
+            text = "ENCOURAGING MESSAGES REACHED HIM IN QUICK SUCCESSION FROM LONDON HE WAS ASSURED THAT THE VIOLENCE AND INJUSTICE WITH WHICH THE ELECTIONS HAD BEEN CARRIED ON HAD DRIVEN THE NATION MAD" 

@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 8.485 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 8.485 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.485 
+            text = "IN WHAT POINTS HIS OWN CONJECTURES MIGHT ASSIST HIM AND WHAT PORTION MUST YET REMAIN TO BE TOLD IN A LETTER FROM JAMES" 

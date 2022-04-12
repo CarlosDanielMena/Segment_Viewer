@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.515 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.515 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.515 
+            text = "NO OPPOSING DESIRE THAT SHOULD DARE TO CLOTHE ITSELF IN WORDS COULD ILL BROOK THE OPPOSITION OF HIS SON STEADY AS THE SANCTION OF REASON AND THE DICTATE OF CONSCIENCE COULD MAKE IT BUT IN SUCH A CAUSE HIS ANGER" 

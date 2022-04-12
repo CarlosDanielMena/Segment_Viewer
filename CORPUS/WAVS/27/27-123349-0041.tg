@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 16.015 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 16.015 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 16.015 
+            text = "AND SEEMS TO HAVE BEEN ENTIRELY ANIMATED BY THEIR SPIRIT ALL THE ENDEAVOURS OF THE FEDERAL GOVERNMENT TO EFFECT WHAT JAMES DESIRED WERE FRUSTRATED BY THE EVASIONS OF THE FUNCTIONARIES OF AMSTERDAM AND BY THE BLUNDERS OF COLONEL BEVIL SKELTON" 

@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.995 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 12.995 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12.995 
+            text = "THE KING SAID THAT HE HAD RECEIVED FROM UNQUESTIONABLE SOURCES INTELLIGENCE OF DESIGNS WHICH WERE FORMING AGAINST THE THRONE BY HIS BANISHED SUBJECTS IN HOLLAND SOME OF THE EXILES WERE CUTTHROATS" 

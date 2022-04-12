@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.33 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 4.33 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.33 
+            text = "SO THAT THE WATERS WERE MADE TO STAND FIRM AS A WALL ON EITHER SIDE" 

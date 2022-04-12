@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.48 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 15.48 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 15.48 
+            text = "THE PUBLIC ARE ENTREATED TO BEAR IN MIND THAT THIRTEEN YEARS HAVE PASSED SINCE IT WAS FINISHED MANY MORE SINCE IT WAS BEGUN AND THAT DURING THAT PERIOD PLACES MANNERS BOOKS AND OPINIONS HAVE UNDERGONE CONSIDERABLE CHANGES" 
