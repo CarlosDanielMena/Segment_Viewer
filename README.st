@@ -9,7 +9,7 @@ Author: Carlos Daniel Hernández Mena
 REQUIREMENTS
 -------------------------------------------------------------------------------
 
-The SEGMENT VIEWER was tested in Ubuntu only. The requirements are:
+The SEGMENT VIEWER was tested in Ubuntu only. The requirements are :
 
 - Python 3 - https://www.python.org/
 - SoX - http://sox.sourceforge.net/
